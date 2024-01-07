@@ -1,4 +1,4 @@
- ✨ Hi, I’m @SamZackel
+ ✨ Hi, I’m @SamZackel!
 - 🧫🔬 Interested in Molecular Biology and Microbiology
 - 💞️🧬 Currently learning Python for Bioinformatics
 
